@@ -7,6 +7,6 @@ public class HelloServiceImpl implements HelloService {
 
     @Override
     public String getHello() {
-        return "Hello World";
+        return "Hello";
     }
 }
