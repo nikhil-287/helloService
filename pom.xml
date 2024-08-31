@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.helloService</groupId>
 	<artifactId>helloService</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>helloService</name>
 	<description>HelloService</description>
 	<url/>
